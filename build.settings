@@ -1,0 +1,8 @@
+settings =
+{
+    orientation =
+    {
+        default = "portrait",    -- Initial launch orientation
+        supported = {},  -- Table of allowed options for auto-orientation
+    },
+}
